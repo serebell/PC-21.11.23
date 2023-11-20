@@ -1,0 +1,5 @@
+/Users/sserebell/Desktop/HW1/obj/Debug/net7.0/HW1.csproj.AssemblyReference.cache
+/Users/sserebell/Desktop/HW1/obj/Debug/net7.0/HW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sserebell/Desktop/HW1/obj/Debug/net7.0/HW1.AssemblyInfoInputs.cache
+/Users/sserebell/Desktop/HW1/obj/Debug/net7.0/HW1.AssemblyInfo.cs
+/Users/sserebell/Desktop/HW1/obj/Debug/net7.0/HW1.csproj.CoreCompileInputs.cache

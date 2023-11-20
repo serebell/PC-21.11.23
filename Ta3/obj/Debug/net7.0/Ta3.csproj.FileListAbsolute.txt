@@ -1,0 +1,15 @@
+/Users/sserebell/Desktop/HW1/Ta3/bin/Debug/net7.0/Ta3
+/Users/sserebell/Desktop/HW1/Ta3/bin/Debug/net7.0/Ta3.deps.json
+/Users/sserebell/Desktop/HW1/Ta3/bin/Debug/net7.0/Ta3.runtimeconfig.json
+/Users/sserebell/Desktop/HW1/Ta3/bin/Debug/net7.0/Ta3.dll
+/Users/sserebell/Desktop/HW1/Ta3/bin/Debug/net7.0/Ta3.pdb
+/Users/sserebell/Desktop/HW1/Ta3/obj/Debug/net7.0/Ta3.csproj.AssemblyReference.cache
+/Users/sserebell/Desktop/HW1/Ta3/obj/Debug/net7.0/Ta3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sserebell/Desktop/HW1/Ta3/obj/Debug/net7.0/Ta3.AssemblyInfoInputs.cache
+/Users/sserebell/Desktop/HW1/Ta3/obj/Debug/net7.0/Ta3.AssemblyInfo.cs
+/Users/sserebell/Desktop/HW1/Ta3/obj/Debug/net7.0/Ta3.csproj.CoreCompileInputs.cache
+/Users/sserebell/Desktop/HW1/Ta3/obj/Debug/net7.0/Ta3.dll
+/Users/sserebell/Desktop/HW1/Ta3/obj/Debug/net7.0/refint/Ta3.dll
+/Users/sserebell/Desktop/HW1/Ta3/obj/Debug/net7.0/Ta3.pdb
+/Users/sserebell/Desktop/HW1/Ta3/obj/Debug/net7.0/Ta3.genruntimeconfig.cache
+/Users/sserebell/Desktop/HW1/Ta3/obj/Debug/net7.0/ref/Ta3.dll
